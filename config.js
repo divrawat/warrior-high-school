@@ -1,6 +1,6 @@
 
-export const DOMAIN = 'http://localhost:3000';
-// export const DOMAIN = 'https://www.warriorhighschool.in.net';
+// export const DOMAIN = 'http://localhost:3000';
+export const DOMAIN = 'https://www.warriorhighschool.in.net';
 
 
 export const MANGA_DESCRIPTION = ` <a href="${DOMAIN}"><u>Warrior High School: Dungeon Raid Department</u></a> is an action-packed manga series set in a world where students attend an elite academy to become powerful warriors. The story follows a group of talented and diverse students as they train, fight, and navigate intense battles and rivalries. With a mix of supernatural abilities, advanced combat techniques, and strategic warfare, the series explores themes of friendship, ambition, and the pursuit of greatness.`
