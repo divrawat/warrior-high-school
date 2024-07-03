@@ -178,18 +178,6 @@ export default function Home() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
         <div className="bg-[black] relative">
           <div className="absolute inset-0 bg-black opacity-80"></div> {/* Dark overlay */}
           <div className="pt-10 pb-10 max-w-[1100px] mx-auto px-5 text-[white] relative z-10">
