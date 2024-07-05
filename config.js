@@ -30,7 +30,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] roun
 export const APP_NAME = 'Warrior High School';
 export const NavbarName = "Warrior High School";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. The story follows a group of talented and diverse students as they train, fight, and navigate intense battles and rivalries. With a mix of supernatural abilities, advanced combat techniques, and strategic warfare, the series explores themes of friendship, ambition, and the pursuit of greatness.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. The story follows a group of talented and diverse students as they train, fight, and navigate intense battles and rivalries. With a mix of supernatural abilities, advanced combat techniques, and strategic warfare, the series explores themes of friendship, ambition, and the pursuit of greatness.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 

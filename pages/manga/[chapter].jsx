@@ -28,7 +28,7 @@ export default function Chapter({ chapterNumber, imageUrls, totalChapters, param
     const nextChapter = chapterIndex < totalChapters - 1 ? chaptersData[chapterIndex + 1].chapterNumber : null;
 
 
-    const DESCRIPTION = `Read ${MANGA_NAME} chapter ${chapterNumber}. Yoo Jaryong, is a young man with exceptional potential. He becomes a dungeon smuggler to pay for his father’s medical bills after his father falls ill. Despite the dangers, Jaryong's skills in navigating and surviving the treacherous dungeons catch the attention of elite raiders.`
+    const DESCRIPTION = `Read ${MANGA_NAME} chapter ${chapterNumber} online. Yoo Jaryong, is a young man with exceptional potential. He becomes a dungeon smuggler to pay for his father’s medical bills after his father falls ill. Despite the dangers, Jaryong's skills in navigating and surviving the treacherous dungeons catch the attention of elite raiders.`
 
     const URL = params.chapter;
 
